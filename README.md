@@ -10,5 +10,5 @@ This is a microservice prototype based on a clients requirements. Its characteri
 <li>Implements github actions CI pipeline</li>
 </ul>
 
-<p>As aws lambda functions do not suport PHP natively, it uses a very neat setup with 'bref', which uses aws cloudformation to create the environment</p>
+<p>As aws lambda functions do not suport PHP natively, it uses a very neat setup with 'Bref', which uses aws cloudformation to create the environment</p>
  
