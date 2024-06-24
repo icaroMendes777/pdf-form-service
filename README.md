@@ -14,7 +14,7 @@ This is a microservice prototype based on a clients requirements. Its characteri
 
 <a href="https://bref.sh/">https://bref.sh/</a>
 
-## Local
+## Setup
 
 For composer dependencies run:
 
