@@ -6,7 +6,7 @@ This is a microservice prototype based on a clients requirements. Its characteri
 
 <ul>
 <li>Generate custom pdfs forms with fillable fields</li>
-<li>Work on aws lambda functions</li>
+<li>Works on aws lambda functions</li>
 <li>Implements github actions CI pipeline</li>
 </ul>
 
