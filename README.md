@@ -16,7 +16,7 @@ This is a microservice prototype based on a clients requirements. Its characteri
 
 ## Local
 
-For compser dependencies run:
+For composer dependencies run:
 
     composer install
 
