@@ -14,7 +14,7 @@ This is a microservice prototype based on a clients requirements. Its characteri
 
 <a href="https://bref.sh/">https://bref.sh/</a>
 
-## Setup
+## Local
 
 For compser dependencies run:
 
